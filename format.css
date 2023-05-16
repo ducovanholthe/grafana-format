@@ -11,7 +11,8 @@
 
 .css-19gv2o1-panel-header{
     background-color: #393939; 
-    justify-content: flex-start; 
+    justify-content: flex-start;
+    height: 48px !important
 }
 
 
@@ -89,6 +90,11 @@
     height: 100%;
     align-content: center;
     background-color: rgb(92, 88, 88);
+}
+
+/*Table header bar height*/
+.css-ycu96i-thead {
+    height: 43px;
 }
 
 /* table header format */
