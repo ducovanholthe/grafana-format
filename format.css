@@ -92,7 +92,7 @@
     background-color: rgb(92, 88, 88);
 }
 
-/*Table header bar height*/
+/* table header bar height */
 .css-ycu96i-thead {
     height: 43px;
 }
@@ -108,4 +108,9 @@
 
 .css-kvzgb9-panel-content {
     padding: 0px !important;
+}
+
+/* show query/transform menu */
+.css-af3vye {
+    background-color: white;
 }
