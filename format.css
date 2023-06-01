@@ -4,10 +4,10 @@
 }
 
 /* panel title background to grey, align text left when a title is given */
-.panel-title:has(> .css-1ejir9x:not(:empty)) {
+/* .panel-title:has(> .css-1ejir9x:not(:empty)) {
     background-color: #393939; 
     justify-content: flex-start; 
-}
+} */
 
 .css-19gv2o1-panel-header{
     background-color: #393939; 
@@ -17,9 +17,9 @@
 
 
 /* transparent background [does this work?] */
-.panel-title--transparent{
+/* .panel-title--transparent{
     background-color: #0000;
-}
+} */
 
 /* add 1px border with radius in same color as panel title to round edges */
 .css-10ey0fn-panel-container {
@@ -29,11 +29,11 @@
 }
 
 /* remove dashboard title background */
-.panel-container--transparent {
+/* .panel-container--transparent {
     background-color: #0000;
     border: 1px solid #0000;
     box-shadow: none;
-} 
+}  */
 
 /* title formatting */
 .css-1bo04y5-panel-title {
@@ -52,16 +52,17 @@
 }
 
 /* table padding */
-.css-1oun0v9-cellContainerOverflow {
+/* .css-1oun0v9-cellContainerOverflow {
     padding: 8px;
-}
+} */
+
 /* table row border */
 .css-fivx7f-row {
     border-bottom: 0px solid rgba(36, 41, 46, 0.12);
 }
 
 /* table column border */
-.css-1g4rxm2-cellContainerOverflow {
+/* .css-1g4rxm2-cellContainerOverflow {
     padding: 6px;
     width: 100%;
     height: 100%;
@@ -71,7 +72,7 @@
     border-right: 0px solid rgba(36, 41, 46, 0.12);
     color: rgb(0, 0, 0);
     background-clip: padding-box;
-}
+} */
 
 /* alternating grey row */
 .css-fivx7f-row:nth-child(even) {
@@ -79,9 +80,9 @@
 }
 
 /* change hover color to white */
-.css-fivx7f-row:hover {
+/* .css-fivx7f-row:hover {
     background-color: #FFFFFF;
-}
+} */
 
 /* table header alignment */
 .css-xsplyo {
